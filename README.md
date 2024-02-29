@@ -60,13 +60,10 @@ There are basically four types of algorithms o say techniques to build Collabora
 <h2> Contributors ✨ </h2>
 <table>
     <tbody>
-     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/KrishRupapara"><img src="https://avatars.githubusercontent.com/u/94665286?v=4" width="100px;" alt="KrishRupapara"/><br /><sub><b>KrishRupapara</b></sub></a><br /></td>  
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kir1906"><img src="https://avatars.githubusercontent.com/u/137956777?v=4" width="100px;" alt="kir1906"/><br /><sub><b>kir1906</b></sub></a><br /></td> 
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/asma-2922"><img src="https://avatars.githubusercontent.com/u/137956777?v=4" width="100px;" alt=""/><br /><sub><b>asma-2922</b></sub></a><br /></td>    
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/preyali"><img src="https://avatars.githubusercontent.com/u/137956777?v=4" width="100px;" alt=""/><br /><sub><b>preyali</b></sub></a><br /></td>    
-      
-    </tr>
   </tbody>
 </table> 
 
