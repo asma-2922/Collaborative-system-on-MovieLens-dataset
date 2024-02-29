@@ -55,7 +55,7 @@ There are basically four types of algorithms o say techniques to build Collabora
 		Building a classification model involves several key steps, such as model selection and evalution.
   -We have used the K-Nearest neighbour algorithms, and matrix factorisations, to give the best recommendations to the user.
  - The KNN algorithm finds the nearest neighbors for that movie, based on the cosine similarity and gives most similar predictions to the user.
- - The rating data is a large of 20 M size. Also, the user-movie matrix is a spares matrix. So, we have used the matrix factorization method to predict the recommendations to the user.
+ - The rating data is a large of 20 M size. Also, the user-movie matrix is a sparse matrix so, we have used the matrix factorization method to predict the recommendations to the user.
 
 <h2> Contributors ✨ </h2>
 <table>
